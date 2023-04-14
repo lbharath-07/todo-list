@@ -1,2 +1,3 @@
 # todo-list
-todo list project using js
+todo list project using html,css and javascript
+# #internshipatoasis
